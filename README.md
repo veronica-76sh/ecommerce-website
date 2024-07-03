@@ -30,8 +30,7 @@ This project is a fully functional e-commerce website built using HTML, CSS, and
 - **CSS:** Styling and layout of the website.
 - **JavaScript:** Interactivity and functionality.
 
-## Setup
-To set up the project locally, follow these steps:
+
 
 
 
