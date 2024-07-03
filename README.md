@@ -11,7 +11,6 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
 
 
